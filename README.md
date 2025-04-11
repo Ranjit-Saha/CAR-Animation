@@ -25,8 +25,7 @@ A fun and smooth **2D Car Animation** built using pure **HTML, CSS**, and a pinc
 ## 📸 Screenshots
 
 ### 🎬 Live Scene  
-*(Add a screenshot named `car_animation_preview.png` in the `screenshots/` folder)*  
-![Car Animation Preview](demo.png)
+ ![Car Animation Preview](demo.png)
 
 ---
 
